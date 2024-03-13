@@ -33,7 +33,7 @@
 1. [项目讲解/分析](./docs/SpringSecurity介绍.md) （内容待重构）
 2. [swagger3.0整合](./docs/swagger.md) 
 
-## 代办
+## 待办
 
 - [x] 增加H2内存数据库支持，无须MySQL，一键启动项目启动后访问 [http://localhost:9333/api/h2-console](http://localhost:9333/api/h2-console)  (用户名:root,密码:123456)
 - [x] 增加Swagger，方便调用接口
